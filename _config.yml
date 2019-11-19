@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.coorch.com
+url: https://coorch.github.io
 date_format: "ordinal"
 title: orch
 subtitle: "打码改变人生"
