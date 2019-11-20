@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 终生学习，终生快乐
+keywords: Orch Co, 菜哥
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是菜哥，人如其名，菜得一批。
 
-仰慕「优雅编码的艺术」。
+仰慕「优雅编码的艺术」以及学习使我快乐。
 
 坚信熟能生巧，努力改变人生。
 
