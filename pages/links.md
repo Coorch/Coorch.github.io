@@ -23,3 +23,11 @@ permalink: /links/
 * [{{ link.name }}]({{ link.url }})
   {% endif %}
 {% endfor %}
+
+> Frequently
+
+{% for link in site.data.links %}
+  {% if link.src == 'frequently' %}
+* [{{ link.name }}]({{ link.url }})
+  {% endif %}
+{% endfor %}
