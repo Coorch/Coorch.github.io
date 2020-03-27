@@ -1,3 +1,11 @@
+---
+layout: post
+title: 最大公约数
+categories: Python
+description: 最大公约数的两种求取算法
+keywords: Python, 辗转相除法，更相减损术
+---
+
 ### <center>最大公约数</center>
 
 #### 1、辗转相除法
