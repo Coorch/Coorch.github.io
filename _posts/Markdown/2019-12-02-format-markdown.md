@@ -6,6 +6,7 @@ description: 居中，换行、分页等等
 keywords: Markdown, 格式
 ---
 ### <center>基本格式</center>
+<br>
 #### 居中
 ```html
 <center></center>

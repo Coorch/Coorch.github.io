@@ -19,7 +19,7 @@ keywords: Markdown, 符号
 </head>
 
 ### <center>希腊字母、运算符号</center>
-</br>
+<br>
 #### 希腊字母
 
 |               |             |           |         |             |           |
@@ -34,7 +34,7 @@ keywords: Markdown, 符号
 |   $\Gamma$    |   \Gamma    |  $\Psi$   |  \Psi   |   $\Phi$    |   \Phi    |
 |     $\Pi$     |     \Pi     | $\Delta$  | \Delta  |  $\Theta$   |  \Theta   |
 |   $\Sigma$    |   \Sigma    | $\Omega$  | \Omega  |             |           |
-</br>
+<br>
 #### 二元运算符
 
 |                    |                  |           |              |                 |                |
@@ -47,7 +47,7 @@ keywords: Markdown, 符号
 |      $\sqcup$      |      \sqcup      | $\sqcap$  |    \sqcap    | $\triangleleft$ | \triangleright |
 |       $\vee$       |    \vee,\lor     |  $\land$  | \land,\wedge |    $\amalg$     |     \amalg     |
 | $\bigtriangledown$ | \bigtriangledown |           |              |                 |                |
-</br>
+<br>
 #### 逻辑运算符
 
 |               |             |               |             |           |          |
@@ -62,7 +62,7 @@ keywords: Markdown, 符号
 |     $\in$     |     \in     |     $\ni$     |  \ni,\owns  | $\notin$  |  \notin  |
 |   $\smile$    |   \smile    |   $\frown$    |   \frown    | $\asymp$  |  \astmp  |
 |    $\Join$    |    \Join    |   $\bowtie$   |   \bowtie   | $\propto$ | \propto  |
-</br>
+<br>
 #### 大型运算符
 
 |             |           |              |            |             |           |
@@ -71,7 +71,7 @@ keywords: Markdown, 符号
 |  $\bigcup$  |  \bigcup  |  $\bigcap$   |  \bigcap   | $\biguplus$ | \biguplus |
 |   $\int$    |   \int    |   $\oint$    |   \oint    | $\bigsqcup$ | \bigsqcup |
 | $\bigoplus$ | \bigoplus | $\bigotimes$ | \bigotimes | $\bigodot$  | \bigodot  |
-</br>
+<br>
 #### 箭头
 
 |                      |                    |                   |                 |                    |                  |                       |                     |
