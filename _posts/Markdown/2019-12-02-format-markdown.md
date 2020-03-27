@@ -2,10 +2,10 @@
 layout: post
 title: Markdown格式合计
 categories: Markdown
-description: 数学符号，运算符号
-keywords: Markdown, 符号
+description: 居中，换行、分页等等
+keywords: Markdown, 格式
 ---
-
+### <center>基本格式</center>
 #### 居中
 ```html
 <center></center>

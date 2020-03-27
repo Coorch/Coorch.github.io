@@ -5,14 +5,16 @@ categories: Python
 description: Python中的命令行解析库讲解
 keywords: Python, 命令行
 ---
-
+### <center>Python的命令行解析</center>
+</br>
 Python中的命令行解析库，主要有以下四种：
+
 - sys.argv
 - argparse
 - click
 - fire
 
-### sys.argv
+#### sys.argv
 ```Python
 from sys import argv
 ```
@@ -22,9 +24,9 @@ from sys import argv
 
 用sys模块只支持一些简单的传入，不能设定参数名称。
 
-### argparse库
+#### argparse库
 
-### click
+#### click
 
-### fire库
+#### fire库
 这是一个神器，没有前两个库操作复杂，而且可以直接调用py文件中的函数、变量、类、实例等等。

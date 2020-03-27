@@ -6,7 +6,6 @@ description: 数学符号，运算符号
 keywords: Markdown, 符号
 ---
 
-
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -19,7 +18,8 @@ keywords: Markdown, 符号
     </script>
 </head>
 
-
+### <center>希腊字母、运算符号</center>
+</br>
 #### 希腊字母
 
 |               |             |           |         |             |           |
@@ -34,9 +34,7 @@ keywords: Markdown, 符号
 |   $\Gamma$    |   \Gamma    |  $\Psi$   |  \Psi   |   $\Phi$    |   \Phi    |
 |     $\Pi$     |     \Pi     | $\Delta$  | \Delta  |  $\Theta$   |  \Theta   |
 |   $\Sigma$    |   \Sigma    | $\Omega$  | \Omega  |             |           |
-
-
-
+</br>
 #### 二元运算符
 
 |                    |                  |           |              |                 |                |
@@ -49,7 +47,7 @@ keywords: Markdown, 符号
 |      $\sqcup$      |      \sqcup      | $\sqcap$  |    \sqcap    | $\triangleleft$ | \triangleright |
 |       $\vee$       |    \vee,\lor     |  $\land$  | \land,\wedge |    $\amalg$     |     \amalg     |
 | $\bigtriangledown$ | \bigtriangledown |           |              |                 |                |
-
+</br>
 #### 逻辑运算符
 
 |               |             |               |             |           |          |
@@ -64,7 +62,7 @@ keywords: Markdown, 符号
 |     $\in$     |     \in     |     $\ni$     |  \ni,\owns  | $\notin$  |  \notin  |
 |   $\smile$    |   \smile    |   $\frown$    |   \frown    | $\asymp$  |  \astmp  |
 |    $\Join$    |    \Join    |   $\bowtie$   |   \bowtie   | $\propto$ | \propto  |
-
+</br>
 #### 大型运算符
 
 |             |           |              |            |             |           |
@@ -73,7 +71,7 @@ keywords: Markdown, 符号
 |  $\bigcup$  |  \bigcup  |  $\bigcap$   |  \bigcap   | $\biguplus$ | \biguplus |
 |   $\int$    |   \int    |   $\oint$    |   \oint    | $\bigsqcup$ | \bigsqcup |
 | $\bigoplus$ | \bigoplus | $\bigotimes$ | \bigotimes | $\bigodot$  | \bigodot  |
-
+</br>
 #### 箭头
 
 |                      |                    |                   |                 |                    |                  |                       |                     |
@@ -86,7 +84,7 @@ keywords: Markdown, 符号
 |      $\uparrow$      |      \uparrow      |   $\downarrow$    |   \downarrow    |   $\updownarrow$   |   \updownarrow   |                       |                     |
 |      $\Uparrow$      |      \Uparrow      |   $\Downarrow$    |   \Downarrow    |   $\Updownarrow$   |   \Updownarrow   |                       |                     |
 |      $\nearrow$      |      \nearrow      |    $\searrow$     |    \searrow     |     $\swarrow$     |     \swarrow     |      $\nwarrow$       |      \nwarrow       |
-
+<br>
 #### 其他符号
 
 |             |           |             |           |          |        |            |          |
