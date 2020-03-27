@@ -15,9 +15,29 @@ keywords: Markdown, 符号
 <center>格式合集</center>
 ```
 <center>格式合集</center>
-
+<br>
 #### 分页
 ```html
 <div STYLE="page-break-after: always;"></div>
 ```
 在要分页的地方加上这一句代码即可。
+<br>
+#### 空格
+```html
+&emsp;&ensp;
+```
+##### example
+```html
+&emsp;空一个中文字符;
+空
+&ensp;空半个中文字符，也就是一个英文字符
+```
+&emsp;空一个中文字符;
+空
+&ensp;空半个中文字符，也就是一个英文字符
+<br>
+#### 换行
+```html
+<br>
+```
+在空行加上br
